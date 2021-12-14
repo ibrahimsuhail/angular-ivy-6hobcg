@@ -1,0 +1,11 @@
+#profile-picture-box {
+  gap: 15px;
+}
+
+.main {
+  width: 70%;
+  height: fit-content;
+  margin: auto auto;
+  border: solid gray 0.2px;
+  border-radius: 7px;
+}
